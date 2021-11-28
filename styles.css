@@ -14,8 +14,14 @@ h3 {
     text-align: center;
 }
 
-li,
 .testo {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+ul,
+ol,
+li {
     font-family:'Times New Roman', Times, serif;
     text-align: center;
 }
